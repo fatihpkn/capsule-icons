@@ -1,11 +1,11 @@
 {
   "name": "@capsule/icons",
   "version": "1.0.0",
-  "main": "index.ts",
   "repository": "https://github.com/fatihpkn/capsule-icons.git",
   "author": "fatihpiskin <fatih.piskin@enuygun.com>",
   "license": "MIT",
   "module": "dist/index.esm.js",
+  "main": "index.ems.js",
   "files": [
     "dist"
   ],
