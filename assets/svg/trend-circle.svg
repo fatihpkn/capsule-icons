@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FCFE378D-9BDB-484F-971E-5DCE2D3F0A75</title>
+    <defs>
+        <polygon id="path-1" points="0 0 48.6053631 0 48.6053631 25.2987165 0 25.2987165"></polygon>
+    </defs>
+    <g id="Reklam-Sayfası" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enuygun-Reklam_Mobil" transform="translate(-143.000000, -977.000000)">
+            <g id="Group-2" transform="translate(0.000000, 485.000000)">
+                <g id="value-prop" transform="translate(16.000000, 32.000000)">
+                    <g id="Group-30" transform="translate(0.000000, 82.000000)">
+                        <g id="Group-16" transform="translate(0.000000, 346.000000)">
+                            <g id="ad_icon_02" transform="translate(127.000000, 32.000000)">
+                                <circle id="Oval" fill="#F4EFFF" cx="45" cy="45" r="45"></circle>
+                                <g id="Group-6" transform="translate(20.000000, 32.000000)">
+                                    <g id="Group-3" transform="translate(0.000000, 1.479961)">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <g id="Clip-2"></g>
+                                        <path d="M2.85543534,25.2987165 C2.10542841,25.2987165 1.3574004,25.0051781 0.796709204,24.4220593 C-0.295649168,23.2855053 -0.260688423,21.4774411 0.876525245,20.3850827 L15.680092,6.14880348 L27.6663505,16.900222 L43.730483,0.836089515 C44.8459287,-0.278696505 46.6539928,-0.278696505 47.7687789,0.836089515 C48.8842245,1.95087554 48.8842245,3.75959936 47.7687789,4.87438538 L27.8807324,24.7617722 L15.8153176,13.9417514 L4.83434544,24.5012157 C4.28091025,25.0335425 3.56784297,25.2987165 2.85543534,25.2987165" id="Fill-1" fill="#4F1BB7" mask="url(#mask-2)"></path>
+                                    </g>
+                                    <polygon id="Fill-4" fill="#4F1BB7" points="44.6457289 19.8807905 50 14.5278386 49.8126632 0.186677186 35.4715017 0 30.1185499 5.35361144 44.4590517 5.54028863"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

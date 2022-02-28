@@ -1,0 +1,36 @@
+{
+  "name": "@capsule/icons",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/fatihpkn/capsule-icons.git",
+  "author": "fatihpiskin <fatih.piskin@enuygun.com>",
+  "license": "MIT",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "prebuild": "rimraf src && rimraf dist",
+    "build": "yarn svgr && rollup -c",
+    "svgr": "npx @svgr/cli -d src/icons/ assets/svg/ --typescript --memo --icon --svg-props fill=currentColor"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.16.4",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-react": "^7.16.0",
+    "@rollup/plugin-babel": "^5.3.1",
+    "@svgr/cli": "^6.1.2",
+    "react": "^17.0.2",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.61.1",
+    "rollup-plugin-filesize": "^9.1.2",
+    "rollup-plugin-typescript2": "^0.31.2",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.16.3"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2"
+  }
+}

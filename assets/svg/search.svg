@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5B196D1E-2DE7-4519-9545-E3FB8BDA2139</title>
+    <defs>
+        <path d="M10.4166667,9.16666667 L9.75833333,9.16666667 L9.525,8.94166667 C10.3416667,7.99166667 10.8333333,6.75833333 10.8333333,5.41666667 C10.8333333,2.425 8.40833333,0 5.41666667,0 C2.425,0 0,2.425 0,5.41666667 C0,8.40833333 2.425,10.8333333 5.41666667,10.8333333 C6.75833333,10.8333333 7.99166667,10.3416667 8.94166667,9.525 L9.16666667,9.75833333 L9.16666667,10.4166667 L13.3333333,14.575 L14.575,13.3333333 L10.4166667,9.16666667 Z M5.41666667,9.16666667 C3.34166667,9.16666667 1.66666667,7.49166667 1.66666667,5.41666667 C1.66666667,3.34166667 3.34166667,1.66666667 5.41666667,1.66666667 C7.49166667,1.66666667 9.16666667,3.34166667 9.16666667,5.41666667 C9.16666667,7.49166667 7.49166667,9.16666667 5.41666667,9.16666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Widgets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Otel-Anasayfa-Rezervasyon-Sorgula_SW" transform="translate(-190.000000, -311.000000)">
+            <g id="Search-Widget-Uçak" transform="translate(160.000000, 165.000000)">
+                <g id="search-form" transform="translate(16.000000, 114.000000)">
+                    <g id="icon/action/search_24px" transform="translate(14.500000, 32.500000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g fill-rule="nonzero"></g>
+                        <g id="Group" mask="url(#mask-2)">
+                            <g transform="translate(-2.500000, -2.500000)" id="↳-Color">
+                                <rect id="Rectangle" fill="#53605E" x="0" y="0" width="20" height="20"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

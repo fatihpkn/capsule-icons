@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3BEB5F67-18B8-4A61-B572-BA520D8D1EB2</title>
+    <defs>
+        <path d="M2.375,13.65625 L2.375,16.625 L5.34375,16.625 L14.0995833,7.86916667 L11.1308333,4.90041667 L2.375,13.65625 Z M16.3954167,5.57333333 C16.7041667,5.26458333 16.7041667,4.76583333 16.3954167,4.45708333 L14.5429167,2.60458333 C14.2341667,2.29583333 13.7354167,2.29583333 13.4266667,2.60458333 L11.9779167,4.05333333 L14.9466667,7.02208333 L16.3954167,5.57333333 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Araç-Kiralama-Search-Result" transform="translate(-1108.000000, -83.000000)">
+            <g id="Edit-Search" transform="translate(160.000000, 72.000000)">
+                <g id="Group-8" transform="translate(791.000000, 0.000000)">
+                    <g id="Group-5" transform="translate(157.000000, 0.000000)">
+                        <g id="Action/ic_search" transform="translate(0.000000, 11.000000)">
+                            <rect id="Rectangle" stroke-opacity="0.01" stroke="#FFFFFF" stroke-width="0.1" opacity="0.2" x="0.05" y="0.05" width="18.9" height="18.9"></rect>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="icon/editor/mode_24px" fill-rule="nonzero"></g>
+                            <g id="↳-Color" mask="url(#mask-2)" fill="#2DC44D">
+                                <rect id="Rectangle-13" x="0" y="0" width="19" height="19"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="51px" viewBox="0 0 50 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4FFBDCF7-8696-40B1-A03F-85960E7B8B49</title>
+    <defs>
+        <path d="M18,0 L2,0 C0.89,0 0.01,0.89 0.01,2 L0,14 C0,15.11 0.89,16 2,16 L18,16 C19.11,16 20,15.11 20,14 L20,2 C20,0.89 19.11,0 18,0 Z M18,14 L2,14 L2,8 L18,8 L18,14 Z M18,4 L2,4 L2,2 L18,2 L18,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Login-/-Register" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Register---Headerdan-Tıklandıgında" transform="translate(-323.000000, -602.000000)">
+            <g id="Group-79" transform="translate(299.000000, 209.000000)">
+                <g id="Group-78" transform="translate(24.000000, 87.188406)">
+                    <g id="Group-77" transform="translate(0.000000, 305.623188)">
+                        <g id="icon_ins_travel" transform="translate(0.000000, 0.376812)">
+                            <circle id="Oval" fill="#E5F6ED" cx="25" cy="25" r="25"></circle>
+                            <g id="icon/action/payment_24px" transform="translate(15.000000, 17.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g fill-rule="nonzero"></g>
+                                <g id="↳-Color" mask="url(#mask-2)" fill="#2DC44D">
+                                    <g transform="translate(-2.000000, -4.000000)" id="Rectangle">
+                                        <rect x="0" y="0" width="24" height="24"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

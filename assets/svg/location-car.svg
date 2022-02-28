@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="18px" viewBox="0 0 12 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CAACD38B-CB7B-47D1-8985-2F5E324911A0</title>
+    <defs>
+        <path d="M5.83333333,0 C2.60833333,0 0,2.60833333 0,5.83333333 C0,10.2083333 5.83333333,16.6666667 5.83333333,16.6666667 C5.83333333,16.6666667 11.6666667,10.2083333 11.6666667,5.83333333 C11.6666667,2.60833333 9.05833333,0 5.83333333,0 Z M5.83333333,7.91666667 C4.68333333,7.91666667 3.75,6.98333333 3.75,5.83333333 C3.75,4.68333333 4.68333333,3.75 5.83333333,3.75 C6.98333333,3.75 7.91666667,4.68333333 7.91666667,5.83333333 C7.91666667,6.98333333 6.98333333,7.91666667 5.83333333,7.91666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Araç-Kiralama-Search-Result" transform="translate(-883.000000, -1454.000000)">
+            <g id="Group-19" transform="translate(448.000000, 1191.000000)">
+                <g id="Group-64" transform="translate(0.000000, 236.000000)">
+                    <g id="Group-35" transform="translate(25.000000, 25.000000)">
+                        <g transform="translate(406.000000, 0.000000)">
+                            <g id="icon/communication/location_on_24px" transform="translate(4.166667, 2.666667)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g fill-rule="nonzero"></g>
+                                <g id="↳-Color" mask="url(#mask-2)" fill="#1B2F6F">
+                                    <g transform="translate(-4.166667, -1.666667)" id="Rectangle">
+                                        <rect x="0" y="0" width="20" height="20"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

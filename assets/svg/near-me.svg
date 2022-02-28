@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A4ECE3C6-9559-405C-AB6F-BD0483C2CCFF</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="408" height="680" rx="4"></rect>
+        <filter x="-10.2%" y="-5.4%" width="120.3%" height="112.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="11" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Widgets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Form-Dropdowns" transform="translate(-1874.000000, -1532.000000)">
+            <rect fill="#939D9A" x="0" y="0" width="5053" height="2452"></rect>
+            <g id="Group-32-Copy-4" transform="translate(1859.000000, 1452.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-46" transform="translate(0.000000, 60.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="408" height="60"></rect>
+                    <g id="Group-45" transform="translate(15.000000, 19.000000)">
+                        <g id="Outlined-/-Maps-/-near_me" transform="translate(0.000000, 1.000000)">
+                            <polygon id="Path" points="0 0 20 0 20 20 0 20"></polygon>
+                            <path d="M14.3916667,5.60833333 L10.8583333,14.05 L9.75833333,11.2 L9.49166667,10.5083333 L8.80833333,10.2416667 L5.95,9.13333333 L14.3916667,5.60833333 L14.3916667,5.60833333 Z M17.5,2.5 L2.5,8.775 L2.5,9.59166667 L8.2,11.8 L10.4,17.5 L11.2166667,17.5 L17.5,2.5 Z" id="🔹-Icon-Color" fill="#53605E"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

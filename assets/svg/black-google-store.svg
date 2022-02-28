@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="40px" viewBox="0 0 120 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>602B4176-8A03-4F56-AFBC-ECABA1C02352</title>
+    <defs>
+        <linearGradient x1="61.0453132%" y1="4.94615078%" x2="26.512955%" y2="71.8787395%" id="linearGradient-1">
+            <stop stop-color="#00A0FF" offset="0%"></stop>
+            <stop stop-color="#00A1FF" offset="1%"></stop>
+            <stop stop-color="#00BEFF" offset="26%"></stop>
+            <stop stop-color="#00D2FF" offset="51%"></stop>
+            <stop stop-color="#00DFFF" offset="76%"></stop>
+            <stop stop-color="#00E3FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="107.684729%" y1="50%" x2="-130.640394%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FFE000" offset="0%"></stop>
+            <stop stop-color="#FFBD00" offset="41%"></stop>
+            <stop stop-color="#FFA500" offset="78%"></stop>
+            <stop stop-color="#FF9C00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="86.2709832%" y1="30.8725537%" x2="-50.1798561%" y2="136.108936%" id="linearGradient-3">
+            <stop stop-color="#FF3A44" offset="0%"></stop>
+            <stop stop-color="#C31162" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-18.82494%" y1="-11.9103989%" x2="42.0863309%" y2="35.0790955%" id="linearGradient-4">
+            <stop stop-color="#32A071" offset="0%"></stop>
+            <stop stop-color="#2DA771" offset="7%"></stop>
+            <stop stop-color="#15CF74" offset="48%"></stop>
+            <stop stop-color="#06E775" offset="80%"></stop>
+            <stop stop-color="#00F076" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enuygun_Homepage" transform="translate(-675.000000, -2648.000000)">
+            <g id="App-Download" transform="translate(0.000000, 2275.000000)">
+                <g id="Group-7" transform="translate(539.000000, 373.000000)">
+                    <g id="Google-Play" transform="translate(136.000000, 0.000000)">
+                        <rect id="Background" fill="#000000" x="0" y="0" width="120" height="40" rx="3.55091384"></rect>
+                        <g id="Group-59" transform="translate(12.000000, 7.540470)">
+                            <g id="Group-5" transform="translate(0.000000, 4.122715)" fill-rule="nonzero">
+                                <path d="M0.464165085,0.281207618 C0.23684486,0.549978945 0.120856609,0.895475862 0.139944846,1.24697003 L0.139944846,16.5060162 C0.11647266,16.8580912 0.232998471,17.2051894 0.464165085,17.4717786 L0.512453206,17.526965 L9.05945056,8.97996764 L9.05945056,8.77301855 L0.512453206,0.232919497 L0.464165085,0.281207618 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                                <path d="M11.8877548,11.8289668 L9.05945056,8.97996764 L9.05945056,8.77301855 L11.8877548,5.92401943 L11.9498395,5.96540925 L15.3369062,7.88313747 C16.3026687,8.4281034 16.3026687,9.32488278 15.3369062,9.87674702 L11.9636361,11.7944752 L11.8877548,11.8289668 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                                <path d="M11.9705344,11.7875769 L9.05945056,8.87649309 L0.464165085,17.4717786 C0.866358619,17.8297804 1.46665404,17.8500802 1.8921138,17.5200667 L11.9705344,11.7875769" id="Path" fill="url(#linearGradient-3)"></path>
+                                <path d="M11.9705344,5.96540925 L1.8921138,0.2398178 C1.46922338,-0.0949420073 0.866955426,-0.077484965 0.464165085,0.281207618 L9.05945056,8.87649309 L11.9705344,5.96540925 Z" id="Path" fill="url(#linearGradient-4)"></path>
+                                <path d="M11.8877548,11.7254922 L1.8921138,17.4165921 C1.48384064,17.724725 0.920726359,17.724725 0.512453206,17.4165921 L0.512453206,17.4165921 L0.464165085,17.4648803 L0.464165085,17.4648803 L0.512453206,17.5200667 L0.512453206,17.5200667 C0.920726359,17.8281996 1.48384064,17.8281996 1.8921138,17.5200667 L11.9705344,11.7875769 L11.8877548,11.7254922 Z" id="Path" fill="#000000" opacity="0.2"></path>
+                                <path d="M0.464165085,17.3752023 C0.242587507,17.101588 0.133999837,16.7536139 0.160639755,16.4025416 L0.160639755,16.5060162 C0.137167569,16.8580912 0.25369338,17.2051894 0.484859994,17.4717786 L0.533148114,17.4234904 L0.464165085,17.3752023 Z" id="Path" fill="#000000" opacity="0.12"></path>
+                                <path d="M15.3369062,9.77327247 L11.8877548,11.7254922 L11.9498395,11.7875769 L15.3369062,9.86984872 C15.7441789,9.69763827 16.0247087,9.31654123 16.0681264,8.87649309 L16.0681264,8.87649309 C15.9806615,9.27459433 15.7092502,9.60745727 15.3369062,9.77327247 Z" id="Path" fill="#000000" opacity="0.12"></path>
+                                <path d="M1.8921138,0.336394041 L15.3369062,7.97971371 C15.7092502,8.14552891 15.9806615,8.47839186 16.0681264,8.87649309 L16.0681264,8.87649309 C16.0247087,8.43644495 15.7441789,8.05534791 15.3369062,7.88313747 L1.8921138,0.2398178 C0.933249685,-0.312046436 0.139944846,0.143241559 0.139944846,1.24697003 L0.139944846,1.35044457 C0.160639755,0.246716103 0.933249685,-0.208571891 1.8921138,0.336394041 Z" id="Path" fill="#FFFFFF" opacity="0.25"></path>
+                            </g>
+                            <text id="Google-Play-’den-ind" font-family="OpenSans-Bold, Open Sans" font-size="12" font-weight="bold" line-spacing="13" fill="#FFFFFF">
+                                <tspan x="22.1932115" y="13">Google Play</tspan>
+                                <tspan x="23.0252427" y="26.2519531" font-family="OpenSans-Regular, Open Sans" font-weight="normal">’den indirin</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
