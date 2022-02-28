@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "prebuild": "rimraf src && rimraf dist",
-    "prepare": "npm run build",
+    "prepare": "yarn build",
     "build": "yarn svgr && rollup -c",
     "svgr": "npx @svgr/cli -d src/ assets/svg/ --typescript --memo --icon --svg-props fill=currentColor"
   },
